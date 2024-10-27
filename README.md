@@ -1,4 +1,4 @@
-# @icon-info-circle **My Fullstack Journey**
+# **My Fullstack Journey**
 The purpose of this repository is to act as a documentation of my journey into fullstack development. This repository is divided into three (3) main sections:
 
 * [the-basic](the-basic/): This directory contains a documentation of my learning journey through basic concepts like how the internet works, navigating Linux, text editor (vi) and others
